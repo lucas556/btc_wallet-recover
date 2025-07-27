@@ -28,7 +28,7 @@ draft: false
 
 注意：John 官方的原始版本在一些新环境（如 Ubuntu 22.04 + Python 3.10）上已经不可用.推荐使用这个修复后的版本：
 
-[https://github.com/willstruggle/john/blob/master/bitcoin2john.py](https://github.com/willstruggle/john/blob/master/bitcoin2john.py)
+[https://github.com/lucas556/btc_wallet-recover/blob/main/bitcoin2john.py](https://github.com/lucas556/btc_wallet-recover/blob/main/bitcoin2john.py)
 
 此外,该脚本依赖 `berkeleydb`,你需要先安装：
 
